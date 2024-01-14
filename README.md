@@ -1,3 +1,4 @@
+I am a 12 year old who is eager to become a programmer to solve real time problems
 - 👋 Hi, I’m Edwin Akobeh
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Javascript
